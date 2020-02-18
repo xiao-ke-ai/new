@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-02-18 09:56:50
+ * @LastEditTime: 2020-02-18 09:59:06
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: /2020vue3/Users/libo/Desktop/new-project/src/components/HelloWorld.vue
+ -->
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
@@ -53,6 +61,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color:rebeccapurple;
 }
 </style>
